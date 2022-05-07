@@ -47,3 +47,10 @@ DATALOADER:0 TEST RESULTS
 Testing: 100%|██████████| 4/4 [00:06<00:00,  1.52s/it]
 ```
 
+## 联系我
+
+1. 我的github：[https://github.com/Htring](https://github.com/Htring)
+2. 我的csdn：[科皮子菊](https://piqiandong.blog.csdn.net/)
+3. 我订阅号：AIAS编程有道
+   ![AIAS编程有道](https://s2.loli.net/2022/05/05/DS37LjhBQz2xyUJ.png)
+4. 知乎：[皮乾东](https://www.zhihu.com/people/piqiandong)

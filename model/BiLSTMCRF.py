@@ -8,7 +8,6 @@
 """
 from argparse import ArgumentParser
 from typing import Union, Dict, List, Optional
-
 from pytorch_lightning.utilities.types import STEP_OUTPUT
 from seqeval.metrics import classification_report
 from seqeval.metrics import f1_score
